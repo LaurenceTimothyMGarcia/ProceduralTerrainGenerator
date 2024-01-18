@@ -1,5 +1,7 @@
 # Unity Procedural Terrain Generator
- Procedural Terrain Generator using Perlin Noise. Currently working on adding more features that allow for mazes and a stronger shader system
+ Procedural Terrain Generator using Perlin Noise. Currently working on adding more features that allow for mazes and a stronger shader system.
+
+ This is a separate repository from [Gunslinger Hilda](https://github.com/LaurenceTimothyMGarcia/GunslingerHilda) in order to segment the tool from that specific game prototype.
 
 # Description
 An isolated build of a procedural terrain generator tool for Unity. The tool builds a 2D perlin noise texture then uses the terrain mesh to determine the height of each pixel on the map. Separating the tool into these 2 components allows the user to have more control over the individual components. This tool is based on Sebastian Lague's Procedural Generation Series.

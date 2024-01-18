@@ -15,6 +15,7 @@ You can create 2 Scriptable Objects that you will attach to the MapGenerator.
 
 ## Noise Generator
 Users can edit the noise map to fit their needs.
+
 ![Noise Generator](https://github.com/LaurenceTimothyMGarcia/ProceduralTerrainGenerator/blob/main/Assets/Images/Instructions/NoiseTool.png)
 
 ### Details of the map
@@ -25,6 +26,7 @@ Users can also set specific seeds to save instances of terrains for their respec
 
 ## Terrain Generator
 Users can edit the rules of what type of terrain is generated through the noise map.
+
 ![Terrain Generator](https://github.com/LaurenceTimothyMGarcia/ProceduralTerrainGenerator/blob/main/Assets/Images/Instructions/TerrainTool.png)
 
 ### Height of Mesh
